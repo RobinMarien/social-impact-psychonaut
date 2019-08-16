@@ -1,7 +1,7 @@
 # social-impact-psychonaut
 
-##  The readme links to a preview (screenshot)
+## Screenshot
    
-![Screenshot](https://raw.githubusercontent.com/janvdv96/flavour-flights/master/images/index_screenshot.png "Placeholder")
+![Screenshot](https://raw.githubusercontent.com/RobinMarien/social-impact-psychonaut/master/images/index_screenshot.png "Placeholder")
 
 https://robinmarien.github.io/social-impact-psychonaut/
