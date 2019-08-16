@@ -5,7 +5,7 @@
    Given the short deadline, a good strategy would be to use and tweak a template
    
    ### Specification
-   Duration : six hours
+   Duration : six hours / 
    Solo Challenge
    
    ## Screenshot
