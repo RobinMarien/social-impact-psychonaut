@@ -1,0 +1,12 @@
+body {
+  letter-spacing: 0.1em;
+  line-height: 1.6; }
+
+#intro {
+  background-image: url("images/head.jpg");
+  background-size: cover; }
+
+.deleted td {
+  text-decoration: line-through; }
+
+/*# sourceMappingURL=style.css.map */
