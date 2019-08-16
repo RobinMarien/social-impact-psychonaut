@@ -14,6 +14,8 @@ article {
 #intro {
   background-image: url("images/head.jpg");
   background-size: cover; }
+  #intro p {
+    font-weight: bolder; }
 
 .deleted td {
   text-decoration: line-through; }
@@ -25,6 +27,9 @@ article {
 .profile img {
   border: #888 2px solid;
   height: 230px; }
+
+#merch img {
+  width: 300px; }
 
 #footer h2 {
   color: #212931; }

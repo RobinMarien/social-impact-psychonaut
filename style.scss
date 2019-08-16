@@ -20,6 +20,10 @@ article{
 #intro{
   background-image: url("images/head.jpg");
   background-size: cover;
+
+  p{
+    font-weight:bolder;
+  }
 }
 
 .deleted td{
@@ -34,6 +38,12 @@ article{
 .profile img{
   border: #888 2px solid;
   height:230px;
+}
+
+#merch{
+  img{
+    width:300px;
+  }
 }
 
 #footer{
