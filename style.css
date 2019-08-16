@@ -15,7 +15,10 @@ article {
   background-image: url("images/head.jpg");
   background-size: cover; }
   #intro p {
-    font-weight: bolder; }
+    font-weight: bolder;
+    background: rgba(100, 100, 100, 0.8);
+    border-radius: 50px;
+    box-shadow: 3px 3px 20px rgba(39, 129, 211, 0.1); }
 
 .deleted td {
   text-decoration: line-through; }
